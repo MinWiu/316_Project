@@ -1,0 +1,50 @@
+C:/Users/kocod/OneDrive/Desktop/CE434/Week-2/Verilog/valueH.v {1 {vlog -work work C:/Users/kocod/OneDrive/Desktop/CE434/Week-2/Verilog/valueH.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module valueH
+
+Top level modules:
+	valueH
+
+} {} {}} C:/Users/kocod/OneDrive/Desktop/CE434/Week-2/Verilog/minValue.v {1 {vlog -work work C:/Users/kocod/OneDrive/Desktop/CE434/Week-2/Verilog/minValue.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module minValue
+
+Top level modules:
+	minValue
+
+} {} {}} C:/Users/kocod/OneDrive/Desktop/CE434/Week-2/Verilog/valueV.v {1 {vlog -work work C:/Users/kocod/OneDrive/Desktop/CE434/Week-2/Verilog/valueV.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module valueV
+
+Top level modules:
+	valueV
+
+} {} {}} C:/Users/kocod/OneDrive/Desktop/CE434/Week-2/Verilog/RGBtoHSV.v {1 {vlog -work work C:/Users/kocod/OneDrive/Desktop/CE434/Week-2/Verilog/RGBtoHSV.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module RGBtoHSV
+
+Top level modules:
+	RGBtoHSV
+
+} {} {}} C:/Users/kocod/OneDrive/Desktop/CE434/Week-2/Verilog/valueS.v {1 {vlog -work work C:/Users/kocod/OneDrive/Desktop/CE434/Week-2/Verilog/valueS.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module valueS
+
+Top level modules:
+	valueS
+
+} {} {}} C:/Users/kocod/OneDrive/Desktop/CE434/Week-2/Verilog/maxValueLocation.v {1 {vlog -work work C:/Users/kocod/OneDrive/Desktop/CE434/Week-2/Verilog/maxValueLocation.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module maxValueLocation
+
+Top level modules:
+	maxValueLocation
+
+} {} {}} C:/Users/kocod/OneDrive/Desktop/CE434/Week-2/Verilog/deltaMaxMin.v {1 {vlog -work work C:/Users/kocod/OneDrive/Desktop/CE434/Week-2/Verilog/deltaMaxMin.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module deltaMaxMin
+
+Top level modules:
+	deltaMaxMin
+
+} {} {}}
