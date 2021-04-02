@@ -1,11 +1,26 @@
 # Assignment_2
 ---
-1. First ordered list item
-2. Another item
-   * Unordered sub-list. 
-1. Actual numbers don't matter, just that it's a number
-   * 1. Ordered sub-list
-4. And another item.
+## Script to Compile and Situation
+---
+## Directory
+1. RTL
+   * mul.v
+   * div.v
+   * addSub.v
+   * Select_RGB.v
+   * Compare_fp.v
+   * Tier1_HSV.v
+   * Tier2_HSV.v
+   * RGBtoHSV.v
+2. Memory
+   * RGBFP.txt
+   * HSV.txt
+3. Script
+   * run.do
+   * main.py
+4. Python Code
+5. Image
+---
+## Convert from RGB to HSV
 
-
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+<img width="718" alt="FTH7K" src="https://user-images.githubusercontent.com/74291056/113453326-f59ccd80-942f-11eb-9276-01b9b9680abe.png" width="100">
