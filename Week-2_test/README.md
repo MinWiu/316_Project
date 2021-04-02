@@ -3,7 +3,7 @@
 ## Script to Compile and Situation
 ---
 ## Directory
-1. RTL
+1. **RTL**
    * mul.v
    * div.v
    * addSub.v
@@ -12,14 +12,14 @@
    * Tier1_HSV.v
    * Tier2_HSV.v
    * RGBtoHSV.v
-2. Memory
+2. **Memory**
    * RGBFP.txt
    * HSV.txt
-3. Script
+3. **Script**
    * run.do
    * main.py
-4. Python Code
-5. Image
+4. **Python Code**
+5. **Image**
 ---
 ## Convert from RGB to HSV
 
